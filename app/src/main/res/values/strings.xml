@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Currency Converter</string>
+
+    <!--ADMOB TEST ADS-->
+    <string name="admob_app_id">ca-app-pub-3556714503030220~3538115794</string>
+    <string name="admob_banner_id">ca-app-pub-3556714503030220/7425389911</string>
+    <string name="admob_interstitile_id">ca-app-pub-3556714503030220/1225268489</string>
+
+    <string name="_1_0">1.0</string>
+    <string name="convert">Convert</string>
+    <string name="divider">divider</string>
+    <string name="flag1">flag1</string>
+    <string name="flag2">flag2</string>
+    <string name="from">From</string>
+    <string name="myflag">myflag</string>
+    <string name="symbol">symbol</string>
+    <string name="to">To</string>
+    <string name="united_states_dollar">United States Dollar</string>
+    <string name="united_states_dollar1">United States Dollar</string>
+    <string name="usd">USD</string>
+</resources>
